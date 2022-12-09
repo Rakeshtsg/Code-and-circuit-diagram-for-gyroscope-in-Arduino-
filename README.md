@@ -1,0 +1,1 @@
+# Code-and-circuit-diagram-for-gyroscope-in-Arduino-
